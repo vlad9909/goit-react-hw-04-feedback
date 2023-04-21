@@ -8,8 +8,8 @@ const Statistics = ({ good, neutral, bad, total, goodPersentage }) => (
     <span className={css.grade}>Good: {good}</span>
     <span className={css.grade}>Neutral: {neutral}</span>
     <span className={css.grade}>Bad: {bad}</span>
-    <span className={css.grade}>Total: {total()}</span>
-    <span className={css.grade}>Positive feedback: {goodPersentage()}</span>
+    <span className={css.grade}>Total: {total}</span>
+    <span className={css.grade}>Positive feedback: {goodPersentage}</span>
   </div>
 );
 
