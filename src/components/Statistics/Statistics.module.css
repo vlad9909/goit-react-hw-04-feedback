@@ -1,0 +1,15 @@
+.grade {
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-weight: 500;
+  color: #652c7b;
+}
+
+.title {
+  color: #99db16;
+}
+
+.stats_conteiner {
+  display: flex;
+  flex-direction: column;
+}

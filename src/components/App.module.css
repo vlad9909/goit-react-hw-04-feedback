@@ -1,0 +1,15 @@
+.container {
+  border: solid #e8f900 3px;
+  border-radius: 10px;
+  background-color: #1781ec;
+  width: 300px;
+}
+
+.feedback_container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40;
+  color: #010101;
+}
